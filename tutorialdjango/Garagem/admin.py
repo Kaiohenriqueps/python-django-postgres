@@ -4,4 +4,4 @@ from .models import Garagem
 # Register your models here.
 @admin.register(Garagem)
 class GaragemAdmin(admin.ModelAdmin):
-    list_display = ("veiculo", "cor")
+    list_display = ("veiculo", "cor", "ano_fabricacao", "email", "telefone")
