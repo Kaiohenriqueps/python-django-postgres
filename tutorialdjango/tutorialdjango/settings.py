@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "Pessoa.apps.PessoaConfig",
+    "Garagem.apps.GaragemConfig",
 ]
 
 MIDDLEWARE = [
