@@ -5,6 +5,7 @@ A project with Python, Django e Postgres
 1) Ter o python instalado
 2) Instalar o Django (pip install django)
 3) Instalar o Djando Rest Framework (pip install djangorestframework)
+4) Instalar o Djando Rest Knox (pip install django-rest-knox)
 
 ## Comandos django
 1) django-admin startproject tutorialdjango
